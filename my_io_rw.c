@@ -7,10 +7,18 @@
 #include <time.h>
 #include <pthread.h>
 
-static char nvm_dev_path[NVM_DEV_PATH_LEN] = "/dev/nvme1n1";
-#define nr_blk_write 64 
-#define NUMJOBS 1
+static char nvm_dev_path[NVM_DEV_PATH_LEN] = "/dev/nvme0n1";
+#define NR_BLOCK_TO_WRITE 64 
+#define NR_BLOCK_TO_READ 64
+#define READ_FROM_THIS_LUN 4
 
+#define NUMJOBS_WRITE 16
+#define NUMJOBS_READ 16
+
+#define NR_CHANNELS_RESERVED_FOR_READ 0 // 0이면 모든 채널에서 다 읽음, x면 앞에서부터 x개는 reserve됨
+
+#define READ 1
+#define WRITE 2
 
 //function level profiling
 #define BILLION     (1000000001ULL)
@@ -41,6 +49,7 @@ struct thread_args{
 		int channel;
 		int lun;
 		int block;
+		int rw;
 };
 
 
@@ -87,7 +96,7 @@ int erase_blk(int ch, int lun, int blk){
 		struct nvm_addr blk_addr_tmp;
 		struct nvm_ret ret_tmp;
 		struct nvm_addr addrs[naddrs];
-		ssize_t res;
+		ssize_t res = 0;
 
 
 		blk_addr_tmp.ppa = 0;
@@ -177,10 +186,9 @@ int __write_test(int ag_ch, int ag_lun, int ag_blk){
 
 						//nvm_addr_pr(addrs[i]);
 				}
-				//printf("[rocky][%s::%d] submit write cmd\n", __FUNCTION__, __LINE__);
+				//printf("[rocky][%s::%d] submit write cmd!!\n", __FUNCTION__, __LINE__);
 				
-				res = nvm_addr_write(dev, addrs, naddrs, buf_w,
-								use_meta ? meta_w : NULL, pmode, &ret);
+				res = nvm_addr_write(dev, addrs, naddrs, buf_w, use_meta ? meta_w : NULL, pmode, &ret);
 				if (res < 0) {
 						perror("Write failure");
 						goto exit_naddr;
@@ -204,16 +212,98 @@ exit_naddr:
 
 }
 
-void *write_test(void *data){
+int __read_test(int ag_ch, int ag_lun, int ag_blk){
 
-		struct thread_args ag = *(struct thread_args *)data;
+		char *buf_w = NULL, *buf_r = NULL, *meta_w = NULL, *meta_r = NULL;
+		const int naddrs = geo->nplanes * geo->nsectors;	// naddrs = 16
+		struct nvm_addr blk_addres;
+		struct nvm_addr addrs[naddrs];
+		struct nvm_ret ret;
+		ssize_t res;
+		size_t buf_nbytes, meta_nbytes;
+		int use_meta = 1;
+		int pmode = NVM_FLAG_PMODE_QUAD;
+		int failed = 1;
+
+
+		blk_addres.ppa = 0;
+		blk_addres.g.ch = ag_ch;
+		blk_addres.g.lun = ag_lun;
+		blk_addres.g.blk = ag_blk;    
+
+		buf_nbytes = naddrs * geo->sector_nbytes;
+		meta_nbytes = naddrs * geo->meta_nbytes;
+
+		buf_r = nvm_buf_alloc(geo, buf_nbytes);
+		if (!buf_r) {
+				perror("nvm_buf_alloc");
+				goto exit_naddr;
+		}
+
+		meta_r = nvm_buf_alloc(geo, meta_nbytes);
+		if (!meta_r) {
+				perror("nvm_buf_alloc");
+				goto exit_naddr;
+		}
+
+
+		/* Read */
+		for (size_t pg = 0; pg < geo->npages; ++pg) {
+				size_t buf_diff = 0, meta_diff = 0;
+
+				for (int i = 0; i < naddrs; ++i) {
+						addrs[i].ppa = blk_addres.ppa;
+
+						addrs[i].g.pg = pg;
+						addrs[i].g.pl = (i / geo->nsectors) % geo->nplanes;
+						addrs[i].g.sec = i % geo->nsectors;
+
+						//nvm_addr_pr(addrs[i]);
+				}
+				//printf("[rocky][%s::%d] submit read cmd\n", __FUNCTION__, __LINE__);
+
+				memset(buf_r, 0, buf_nbytes);
+				if (use_meta)
+						memset(meta_r, 0 , meta_nbytes);
+
+				res = nvm_addr_read(dev, addrs, naddrs, buf_r, use_meta ? meta_r : NULL, pmode, &ret);
+				if (res < 0) {
+						perror("Read failure: command error");
+						goto exit_naddr;
+				}
+		}
+		
+		failed = 0;
+
+
+exit_naddr:
+		nvm_buf_free(meta_r);
+		nvm_buf_free(buf_r);
+		nvm_buf_free(meta_w);
+		nvm_buf_free(buf_w);
+
+		if (failed){
+				printf("Failure on PPA(0x%016lx)\n", blk_addres.ppa);
+				return -1;
+		}
+		return 0;
+
+} 
+
+
+void *thread_test(void *data){
+
+		struct thread_args *ag = (struct thread_args *)data;
     struct nvm_addr lun_addr;
 	  const struct nvm_bbt *bbt;
 	  struct nvm_ret ret = {0,0};
-    
+
     lun_addr.ppa = 0;
-    lun_addr.g.ch = ag.channel;
-    lun_addr.g.lun = ag.lun;
+    lun_addr.g.ch = ag->channel;
+    lun_addr.g.lun = ag->lun;
+
+		
+		//printf("[rocky][%s::%d] create thread ch: %d, lun: %d, block: %d, r/w: %d\n", __FUNCTION__, __LINE__, ag->channel, ag->lun, ag->block, ag->rw);
 
 	  bbt = nvm_bbt_get(dev, lun_addr, &ret);
 
@@ -223,12 +313,12 @@ void *write_test(void *data){
 
 		/*===================  FROM  ===================*/
 
-		int no_start_blk = ag.block;
+		int no_start_blk = ag->block;
 		
-    for(int i=0; i < nr_blk_write ; i++){
+    for(int i=0; i < NR_BLOCK_TO_WRITE ; i++){
 
 retry:
-        printf("blk no %d, status: %04x\n",no_start_blk,  bbt->blks[no_start_blk * 4] );
+        //printf("blk no %d, status: %04x\n",no_start_blk,  bbt->blks[no_start_blk * 4] );
 #if 1
         if(bbt->blks[no_start_blk * 4] == NVM_BBT_BAD){
             printf("write: target block is BAD\n");
@@ -238,8 +328,16 @@ retry:
         }
 #endif
 
-				printf("[rocky][%s::%d] write - ch: %d, lun: %d, blk: %d\n", __FUNCTION__, __LINE__, ag.channel, ag.lun, no_start_blk);
-				__write_test(ag.channel, ag.lun, no_start_blk);
+				if(ag->rw == WRITE){
+						//printf("[rocky][%s::%d] write - ch: %d, lun: %d, blk: %d\n", __FUNCTION__, __LINE__, lun_addr.g.ch, lun_addr.g.lun, no_start_blk);
+						__write_test(lun_addr.g.ch, lun_addr.g.lun, no_start_blk);
+
+				}
+				else if(ag->rw == READ){
+						//printf("[rocky][%s::%d] read - ch: %d, lun: %d, blk: %d\n", __FUNCTION__, __LINE__, lun_addr.g.ch, lun_addr.g.lun, no_start_blk);
+						__read_test(lun_addr.g.ch, lun_addr.g.lun, no_start_blk);
+				
+				}
 
 				no_start_blk ++;
 				if(no_start_blk == 1065)
@@ -251,15 +349,17 @@ retry:
 		clock_gettime(CLOCK_MONOTONIC, &local_time[1]);
 		calclock(local_time, &total_time, &total_count, &delay_time );
 
-		printf("%s, elapsed time:%llu,  total_time: %llu, total_count: %llu\n", __func__, delay_time, total_time, total_count);
+		printf("r/w: %d, elapsed time: %llu,  total_time: %llu, total_count: %llu\n", ag->rw, delay_time, total_time, total_count);
 		return 0;
 }
 
 
+
 int main(int argc, char **argv){
 
-		pthread_t th[NUMJOBS];
-		struct thread_args th_args; 
+		pthread_t th[NUMJOBS_WRITE];
+		pthread_t th_r[NUMJOBS_READ];
+
 		int status;
 		int no_start_blk = 0;
     
@@ -276,11 +376,10 @@ int main(int argc, char **argv){
 		}
 		geo = nvm_dev_get_geo(dev);
 
-
-
 		/* erase all blocks which need to write  */
-		for(int i=0; i < NUMJOBS; i++){
-				for(int j=0; j< nr_blk_write; j++){
+		for(int i=0; i < NUMJOBS_WRITE; i++){
+				no_start_blk = 0;
+				for(int j=0; j< NR_BLOCK_TO_WRITE; j++){
 
             lun_addr.ppa = 0;
             lun_addr.g.ch = i % 16;
@@ -306,23 +405,88 @@ retry:
 				} 
 		}
 
-		/* create and run threads */
-		for(int i=0; i < NUMJOBS; i++){
-				th_args.channel = i % 16;
-				th_args.lun = i / 16;
-				th_args.block = 0;
+		no_start_blk = 0;
+		/* write data for read  */
+		for(int i = 0; i < NUMJOBS_READ; i++ ){
+				no_start_blk = 0;
+				for(int j = 0; j < NR_BLOCK_TO_READ; j++){
+				
+            lun_addr.ppa = 0;
+						lun_addr.g.ch = (i % 16) ;
+            lun_addr.g.lun = (i / 16) + READ_FROM_THIS_LUN;
+            bbt = nvm_bbt_get(dev, lun_addr, &ret);
 
-				if(pthread_create(&th[i], NULL, write_test, (void *)&th_args)){
+retry2:
+
+            if(bbt->blks[no_start_blk * 4] == NVM_BBT_BAD){
+                printf("erase: target block is BAD\n");
+
+                no_start_blk++;
+                goto retry2;
+            }
+
+						printf("[rocky][%s::%d] erase and write for read - ch: %d, lun: %d, blk: %d\n", __FUNCTION__, __LINE__, (i % 16), (i / 16) + READ_FROM_THIS_LUN, no_start_blk); 
+						
+						erase_blk( (i % 16), (i / 16) + READ_FROM_THIS_LUN, no_start_blk);// channel, lun, block
+						__write_test( (i % 16) , (i / 16) + READ_FROM_THIS_LUN, no_start_blk ); // channel, lun, block
+
+            no_start_blk++;
+            if(no_start_blk == 1065)
+								no_start_blk = 0;
+				} 
+		}
+
+#if 0
+
+		struct thread_args *th_args; 
+
+		/* create and run threads for write  */
+		for(int i=0; i < NUMJOBS_WRITE; i++){
+				th_args = malloc(sizeof(struct thread_args));
+				
+				th_args->channel = i % 16;
+				th_args->lun = i / 16;
+				th_args->block = 0;
+				th_args->rw = WRITE;
+				
+				//printf("[rocky][%s::%d] create write thread ch: %d\n", __FUNCTION__, __LINE__, th_args->channel);
+
+				if(pthread_create(&th[i], NULL, thread_test, (void *)th_args)){
 						perror("thread create error: ");
 						exit(0);
 				}
 		}
 
+		/* create and run threads for read  */
+		for(int i=0; i < NUMJOBS_READ; i++){
+				th_args = malloc(sizeof(struct thread_args));
+				
+				th_args->channel = i % 16;
+				th_args->lun = (i / 16) + READ_FROM_THIS_LUN; // 4
+				th_args->block = 0;
+				th_args->rw = READ;
+						
+				//printf("[rocky][%s::%d] create read thread ch: %d\n", __FUNCTION__, __LINE__, th_args->channel);
+
+				if(pthread_create(&th_r[i], NULL, thread_test, (void *)th_args)){
+						perror("thread create error: ");
+						exit(0);
+				}
+		}
+
+		free(th_args);
+
 		/* wait and join multiple thread */
-		for(int i=0; i < NUMJOBS; i++){
+		for(int i=0; i < NUMJOBS_WRITE; i++){
 				pthread_join(th[i], (void **)&status); 
 				printf("Thread End, status: %d\n", status);
 		}
+		for(int i=0; i < NUMJOBS_READ; i++){
+				pthread_join(th_r[i], (void **)&status); 
+				printf("Thread End, status: %d\n", status);
+		}
+
+#endif
 
 		/* close device */
 		nvm_dev_close(dev);
