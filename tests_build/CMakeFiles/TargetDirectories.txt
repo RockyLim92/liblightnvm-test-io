@@ -1,0 +1,10 @@
+/home/rocky/liblightnvm/tests_build/CMakeFiles/edit_cache.dir
+/home/rocky/liblightnvm/tests_build/CMakeFiles/package_source.dir
+/home/rocky/liblightnvm/tests_build/CMakeFiles/rebuild_cache.dir
+/home/rocky/liblightnvm/tests_build/CMakeFiles/package.dir
+/home/rocky/liblightnvm/tests_build/CMakeFiles/list_install_components.dir
+/home/rocky/liblightnvm/tests_build/CMakeFiles/install.dir
+/home/rocky/liblightnvm/tests_build/CMakeFiles/nvm_my_io.dir
+/home/rocky/liblightnvm/tests_build/CMakeFiles/nvm_my_io_rw.dir
+/home/rocky/liblightnvm/tests_build/CMakeFiles/install/strip.dir
+/home/rocky/liblightnvm/tests_build/CMakeFiles/install/local.dir

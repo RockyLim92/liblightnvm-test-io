@@ -1,0 +1,103 @@
+.TH "nvm_geo" 3 "Tue May 1 2018" "Version 0.0.1" "liblightnvm" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+nvm_geo \- 
+.PP
+Representation of device and virtual block geometry\&.  
+
+.SH SYNOPSIS
+.br
+.PP
+.PP
+\fC#include <liblightnvm\&.h>\fP
+.SS "Data Fields"
+
+.in +1c
+.ti -1c
+.RI "size_t \fBnchannels\fP"
+.br
+.RI "\fINumber of channels on device\&. \fP"
+.ti -1c
+.RI "size_t \fBnluns\fP"
+.br
+.RI "\fINumber of LUNs per channel\&. \fP"
+.ti -1c
+.RI "size_t \fBnplanes\fP"
+.br
+.RI "\fINumber of planes per LUN\&. \fP"
+.ti -1c
+.RI "size_t \fBnblocks\fP"
+.br
+.RI "\fINumber of blocks per plane\&. \fP"
+.ti -1c
+.RI "size_t \fBnpages\fP"
+.br
+.RI "\fINumber of pages per block\&. \fP"
+.ti -1c
+.RI "size_t \fBnsectors\fP"
+.br
+.RI "\fINumber of sectors per page\&. \fP"
+.ti -1c
+.RI "size_t \fBpage_nbytes\fP"
+.br
+.RI "\fINumber of bytes per page\&. \fP"
+.ti -1c
+.RI "size_t \fBsector_nbytes\fP"
+.br
+.RI "\fINumber of bytes per sector\&. \fP"
+.ti -1c
+.RI "size_t \fBmeta_nbytes\fP"
+.br
+.RI "\fINumber of bytes for out-of-bound / metadata\&. \fP"
+.ti -1c
+.RI "size_t \fBtbytes\fP"
+.br
+.RI "\fITotal number of bytes in geometry\&. \fP"
+.in -1c
+.SH "Detailed Description"
+.PP 
+Representation of device and virtual block geometry\&. 
+
+\fBSee also:\fP
+.RS 4
+\fBnvm_dev_get_geo\fP, nvm_vblk_get_geo 
+.RE
+.PP
+
+.SH "Field Documentation"
+.PP 
+.SS "size_t \fBnvm_geo::meta_nbytes\fP"
+.PP
+Number of bytes for out-of-bound / metadata\&. 
+.SS "size_t \fBnvm_geo::nblocks\fP"
+.PP
+Number of blocks per plane\&. 
+.SS "size_t \fBnvm_geo::nchannels\fP"
+.PP
+Number of channels on device\&. 
+.SS "size_t \fBnvm_geo::nluns\fP"
+.PP
+Number of LUNs per channel\&. 
+.SS "size_t \fBnvm_geo::npages\fP"
+.PP
+Number of pages per block\&. 
+.SS "size_t \fBnvm_geo::nplanes\fP"
+.PP
+Number of planes per LUN\&. 
+.SS "size_t \fBnvm_geo::nsectors\fP"
+.PP
+Number of sectors per page\&. 
+.SS "size_t \fBnvm_geo::page_nbytes\fP"
+.PP
+Number of bytes per page\&. 
+.SS "size_t \fBnvm_geo::sector_nbytes\fP"
+.PP
+Number of bytes per sector\&. 
+.SS "size_t \fBnvm_geo::tbytes\fP"
+.PP
+Total number of bytes in geometry\&. 
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for liblightnvm from the source code\&.

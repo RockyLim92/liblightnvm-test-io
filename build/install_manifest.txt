@@ -1,0 +1,15 @@
+/usr/local/lib/liblightnvm.so.0.0.1
+/usr/local/lib/liblightnvm.so.0
+/usr/local/lib/liblightnvm.so
+/usr/local/lib/liblightnvm.a
+/usr/local/include/liblightnvm_spec.h
+/usr/local/include/liblightnvm.h
+/usr/local/lib/liblightnvm_cli.so.0.0.1
+/usr/local/lib/liblightnvm_cli.so.0
+/usr/local/lib/liblightnvm_cli.so
+/usr/local/include/liblightnvm_cli.h
+/usr/local/lib/liblightnvm_cli.a
+/usr/local/bin/nvm_dev
+/usr/local/bin/nvm_bbt
+/usr/local/bin/nvm_addr
+/usr/local/bin/nvm_vblk

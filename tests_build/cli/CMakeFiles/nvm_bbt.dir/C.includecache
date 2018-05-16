@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rocky/liblightnvm/liblightnvm-test-io/cli/cli_bbt.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+liblightnvm.h
+-
+liblightnvm_cli.h
+/home/rocky/liblightnvm/liblightnvm-test-io/cli/liblightnvm_cli.h
+
+/home/rocky/liblightnvm/liblightnvm-test-io/include/liblightnvm.h
+inttypes.h
+-
+stdint.h
+-
+stdlib.h
+-
+sys/types.h
+-
+liblightnvm_spec.h
+-
+
+/home/rocky/liblightnvm/liblightnvm-test-io/include/liblightnvm_cli.h
+liblightnvm.h
+-
+
+/home/rocky/liblightnvm/liblightnvm-test-io/include/liblightnvm_spec.h
+stdint.h
+-
+sys/types.h
+-
+

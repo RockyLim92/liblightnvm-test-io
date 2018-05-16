@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="structnvm__bbt" kind="struct" prot="public">
+    <compoundname>nvm_bbt</compoundname>
+    <includes refid="liblightnvm_8h" local="no">liblightnvm.h</includes>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="structnvm__bbt_1a441963eec2feeca3adcd3ac530da0dca" prot="public" static="no" mutable="no">
+        <type>struct <ref refid="structnvm__dev" kindref="compound">nvm_dev</ref> *</type>
+        <definition>struct nvm_dev* nvm_bbt::dev</definition>
+        <argsstring></argsstring>
+        <name>dev</name>
+        <briefdescription>
+<para>Device on which the bbt resides. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="374" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="374" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__bbt_1aadf9a370ec90d297d60ca3729d912577" prot="public" static="no" mutable="no">
+        <type>struct <ref refid="structnvm__addr" kindref="compound">nvm_addr</ref></type>
+        <definition>struct nvm_addr nvm_bbt::addr</definition>
+        <argsstring></argsstring>
+        <name>addr</name>
+        <briefdescription>
+<para>Address of the LUN described by the bbt. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="375" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="375" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__bbt_1abfd11ee021cbd2dfbad04a38f536eceb" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t nvm_bbt::nblks</definition>
+        <argsstring></argsstring>
+        <name>nblks</name>
+        <briefdescription>
+<para>Total # of blocks in lun. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="376" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="376" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__bbt_1a48bc17e09f954513f57e2b78a0c4bf06" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_bbt::nbad</definition>
+        <argsstring></argsstring>
+        <name>nbad</name>
+        <briefdescription>
+<para># of manufacturer marked bad blocks </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="377" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="377" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__bbt_1a7d17d898fb9d71abcb0ec55393dda423" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_bbt::ngbad</definition>
+        <argsstring></argsstring>
+        <name>ngbad</name>
+        <briefdescription>
+<para># of grown bad blocks </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="378" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="378" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__bbt_1af53027b58b577c5523d777ff33467093" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_bbt::ndmrk</definition>
+        <argsstring></argsstring>
+        <name>ndmrk</name>
+        <briefdescription>
+<para># of device reserved/marked blocks </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="379" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="379" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__bbt_1ab81bb90aebffc217c789bf5e09745ce9" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_bbt::nhmrk</definition>
+        <argsstring></argsstring>
+        <name>nhmrk</name>
+        <briefdescription>
+<para># of of host reserved/marked blocks </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="380" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="380" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__bbt_1afab4b74396e58599717b694a0c077aaa" prot="public" static="no" mutable="no">
+        <type>uint8_t</type>
+        <definition>uint8_t nvm_bbt::blks[]</definition>
+        <argsstring>[]</argsstring>
+        <name>blks</name>
+        <briefdescription>
+<para>Array of block status for each block in LUN. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="381" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="381" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Representation of bad-block-table. </para>    </briefdescription>
+    <detaileddescription>
+<para>The bad-block-table describes block-state of a given LUN</para><para><simplesect kind="see"><para><ref refid="liblightnvm_8h_1aca47f5add1d8e1c8951a361a5d31f7d0" kindref="member">nvm_bbt_get</ref>, <ref refid="liblightnvm_8h_1a6931a3845f299650c4de5a152a2c875d" kindref="member">nvm_bbt_set</ref>, <ref refid="liblightnvm_8h_1a2dbbb2e922bdca909354da7f2ecba9a3" kindref="member">nvm_bbt_mark</ref>, <ref refid="liblightnvm_8h_1aeeef11a1285a6fa2695a3367afdb3770" kindref="member">nvm_bbt_free</ref>, and <ref refid="liblightnvm_8h_1ac5f107f6aba4ae9aa97b154938f02dd1" kindref="member">nvm_bbt_pr</ref> </para></simplesect>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="27">
+        <label>nvm_bbt</label>
+        <link refid="structnvm__bbt"/>
+        <childnode refid="28" relation="usage">
+          <edgelabel>addr</edgelabel>
+        </childnode>
+        <childnode refid="29" relation="usage">
+          <edgelabel>dev</edgelabel>
+        </childnode>
+      </node>
+      <node id="29">
+        <label>nvm_dev</label>
+        <link refid="structnvm__dev"/>
+      </node>
+      <node id="28">
+        <label>nvm_addr</label>
+        <link refid="structnvm__addr"/>
+      </node>
+    </collaborationgraph>
+    <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="373" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="373" bodyend="382"/>
+    <listofallmembers>
+      <member refid="structnvm__bbt_1aadf9a370ec90d297d60ca3729d912577" prot="public" virt="non-virtual"><scope>nvm_bbt</scope><name>addr</name></member>
+      <member refid="structnvm__bbt_1afab4b74396e58599717b694a0c077aaa" prot="public" virt="non-virtual"><scope>nvm_bbt</scope><name>blks</name></member>
+      <member refid="structnvm__bbt_1a441963eec2feeca3adcd3ac530da0dca" prot="public" virt="non-virtual"><scope>nvm_bbt</scope><name>dev</name></member>
+      <member refid="structnvm__bbt_1a48bc17e09f954513f57e2b78a0c4bf06" prot="public" virt="non-virtual"><scope>nvm_bbt</scope><name>nbad</name></member>
+      <member refid="structnvm__bbt_1abfd11ee021cbd2dfbad04a38f536eceb" prot="public" virt="non-virtual"><scope>nvm_bbt</scope><name>nblks</name></member>
+      <member refid="structnvm__bbt_1af53027b58b577c5523d777ff33467093" prot="public" virt="non-virtual"><scope>nvm_bbt</scope><name>ndmrk</name></member>
+      <member refid="structnvm__bbt_1a7d17d898fb9d71abcb0ec55393dda423" prot="public" virt="non-virtual"><scope>nvm_bbt</scope><name>ngbad</name></member>
+      <member refid="structnvm__bbt_1ab81bb90aebffc217c789bf5e09745ce9" prot="public" virt="non-virtual"><scope>nvm_bbt</scope><name>nhmrk</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
