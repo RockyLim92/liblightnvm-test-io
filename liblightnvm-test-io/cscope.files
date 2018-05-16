@@ -1,0 +1,9 @@
+./tests_origin/test_vblk.c
+./tests_origin/test_addr_conv.c
+./tests_origin/test_bbt.c
+./tests_origin/test_addr_rio.c
+./tests_origin/test_addr_io.c
+./tests_origin/test_dev.c
+./my_io.c
+./prof.c
+./my_io_rw.c

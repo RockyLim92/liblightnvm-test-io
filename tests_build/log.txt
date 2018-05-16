@@ -1,0 +1,2048 @@
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 0, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 1, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 2, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 3, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 4, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 5, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 6, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 7, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 8, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 9, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 10, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 11, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 12, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 13, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 14, lun: 0, blk: 63
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 0
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 1
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 2
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 3
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 4
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 5
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 6
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 7
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 8
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 9
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 10
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 11
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 12
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 13
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 14
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 15
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 16
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 17
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 18
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 19
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 20
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 21
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 22
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 23
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 24
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 25
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 26
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 27
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 28
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 29
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 30
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 31
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 32
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 33
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 34
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 35
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 36
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 37
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 38
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 39
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 40
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 41
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 42
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 43
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 44
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 45
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 46
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 47
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 48
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 49
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 50
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 51
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 52
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 53
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 54
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 55
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 56
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 57
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 58
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 59
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 60
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 61
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 62
+[rocky][main::399] erase - ch: 15, lun: 0, blk: 63
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 0, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 1, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 2, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 3, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 4, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 5, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 6, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 7, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 8, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 9, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 10, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 11, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 12, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 13, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 14, lun: 4, blk: 63
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 0
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 1
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 2
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 3
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 4
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 5
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 6
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 7
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 8
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 9
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 10
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 11
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 12
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 13
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 14
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 15
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 16
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 17
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 18
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 19
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 20
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 21
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 22
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 23
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 24
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 25
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 26
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 27
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 28
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 29
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 30
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 31
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 32
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 33
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 34
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 35
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 36
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 37
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 38
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 39
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 40
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 41
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 42
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 43
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 44
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 45
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 46
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 47
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 48
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 49
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 50
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 51
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 52
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 53
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 54
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 55
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 56
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 57
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 58
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 59
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 60
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 61
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 62
+[rocky][main::428] erase and write for read - ch: 15, lun: 4, blk: 63

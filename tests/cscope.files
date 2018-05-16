@@ -1,0 +1,6 @@
+./test_vblk.c
+./test_addr_conv.c
+./test_bbt.c
+./test_addr_rio.c
+./test_addr_io.c
+./test_dev.c

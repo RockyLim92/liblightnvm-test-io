@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/nvm_test_vblk.dir/test_vblk.c.o  -o nvm_test_vblk -rdynamic -lcunit -lpthread -llightnvm 
