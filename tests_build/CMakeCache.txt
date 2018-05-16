@@ -205,19 +205,19 @@ NVM_LIBRARY_STATIC:BOOL=TRUE
 OpenMP_C_FLAGS:STRING=-fopenmp
 
 //Value Computed by CMake
-Project_BINARY_DIR:STATIC=/home/rocky/liblightnvm/tests_build
+Project_BINARY_DIR:STATIC=/home/rocky/liblightnvm-test-io/tests_build
 
 //Value Computed by CMake
-Project_SOURCE_DIR:STATIC=/home/rocky/liblightnvm/liblightnvm-test-io
+Project_SOURCE_DIR:STATIC=/home/rocky/liblightnvm-test-io/liblightnvm-test-io
 
 //Tests: Include test programs in build
 TESTS:BOOL=true
 
 //Value Computed by CMake
-liblightnvm_BINARY_DIR:STATIC=/home/rocky/liblightnvm/tests_build
+liblightnvm_BINARY_DIR:STATIC=/home/rocky/liblightnvm-test-io/tests_build
 
 //Value Computed by CMake
-liblightnvm_SOURCE_DIR:STATIC=/home/rocky/liblightnvm/liblightnvm-test-io
+liblightnvm_SOURCE_DIR:STATIC=/home/rocky/liblightnvm-test-io/liblightnvm-test-io
 
 //Dependencies for target
 lightnvm_LIB_DEPENDS:STATIC=
@@ -239,7 +239,7 @@ lightnvm_cli_a_LIB_DEPENDS:STATIC=general;lightnvm_a;
 //ADVANCED property for variable: CMAKE_AR
 CMAKE_AR-ADVANCED:INTERNAL=1
 //This is the directory where this CMakeCache.txt was created
-CMAKE_CACHEFILE_DIR:INTERNAL=/home/rocky/liblightnvm/tests_build
+CMAKE_CACHEFILE_DIR:INTERNAL=/home/rocky/liblightnvm-test-io/tests_build
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
@@ -302,7 +302,7 @@ CMAKE_GENERATOR_PLATFORM:INTERNAL=
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=/home/rocky/liblightnvm/liblightnvm-test-io
+CMAKE_HOME_DIRECTORY:INTERNAL=/home/rocky/liblightnvm-test-io/liblightnvm-test-io
 //Install .so files without execute permission.
 CMAKE_INSTALL_SO_NO_EXE:INTERNAL=1
 //ADVANCED property for variable: CMAKE_LINKER
