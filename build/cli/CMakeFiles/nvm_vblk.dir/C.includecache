@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/liblightnvm.h
+inttypes.h
+-
+stdint.h
+-
+stdlib.h
+-
+sys/types.h
+-
+liblightnvm_spec.h
+-
+
+../include/liblightnvm_cli.h
+liblightnvm.h
+-
+
+../include/liblightnvm_spec.h
+stdint.h
+-
+sys/types.h
+-
+
+../include/nvm_utils.h
+
+/home/hkim/liblightnvm/cli/cli_vblk.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+errno.h
+-
+liblightnvm_cli.h
+-
+nvm_utils.h
+-
+

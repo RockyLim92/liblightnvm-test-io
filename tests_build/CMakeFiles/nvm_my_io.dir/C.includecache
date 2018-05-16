@@ -6,21 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/home/rocky/liblightnvm/liblightnvm-test-io/my_io.c
-stdio.h
--
-stdlib.h
--
-errno.h
--
-string.h
--
-unistd.h
--
-liblightnvm.h
--
-time.h
--
-pthread.h
--
-

@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="structnvm__cmd" kind="struct" prot="public">
+    <compoundname>nvm_cmd</compoundname>
+    <includes refid="liblightnvm_8h" local="no">liblightnvm.h</includes>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="structnvm__cmd_1aabe41bf89d9f41298106cf04ebd9f7d4" prot="public" static="no" mutable="no">
+        <type>uint8_t</type>
+        <definition>uint8_t nvm_cmd::opcode</definition>
+        <argsstring></argsstring>
+        <name>opcode</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="149" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="149" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a8014afa6de6693b6f1f56e26c9eaa49c" prot="public" static="no" mutable="no">
+        <type>uint8_t</type>
+        <definition>uint8_t nvm_cmd::flags</definition>
+        <argsstring></argsstring>
+        <name>flags</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="150" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="150" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a9392d794cd0aa63fb9d6a4573892d981" prot="public" static="no" mutable="no">
+        <type>uint16_t</type>
+        <definition>uint16_t nvm_cmd::control</definition>
+        <argsstring></argsstring>
+        <name>control</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="151" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="151" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a4f0643ad2c2da14456466e79d8f5de05" prot="public" static="no" mutable="no">
+        <type>uint16_t</type>
+        <definition>uint16_t nvm_cmd::nppas</definition>
+        <argsstring></argsstring>
+        <name>nppas</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="152" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="152" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a621a81248eb95fcdb88ea265e8fd6696" prot="public" static="no" mutable="no">
+        <type>uint16_t</type>
+        <definition>uint16_t nvm_cmd::rsvd</definition>
+        <argsstring></argsstring>
+        <name>rsvd</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="153" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="153" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a96605da67cc6a9a948b94460c586f094" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t nvm_cmd::metadata</definition>
+        <argsstring></argsstring>
+        <name>metadata</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="154" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="154" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1aeef90765e6918184ec82e0f78509ba0e" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t nvm_cmd::addr</definition>
+        <argsstring></argsstring>
+        <name>addr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="155" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="155" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a8d3968f9e0ebc688086a6e32707e66a2" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t nvm_cmd::ppa_list</definition>
+        <argsstring></argsstring>
+        <name>ppa_list</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="156" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="156" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a7c70b1d9d3ba79e0cbe04465b7aceebf" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::metadata_len</definition>
+        <argsstring></argsstring>
+        <name>metadata_len</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="157" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="157" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1af030172e2f504c02c2bc38d758660f36" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::data_len</definition>
+        <argsstring></argsstring>
+        <name>data_len</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="158" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="158" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a30fa6c30428e5326e2c0d7642a3b8870" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t nvm_cmd::status</definition>
+        <argsstring></argsstring>
+        <name>status</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="159" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="159" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1aa14632fc85953735c1675311fa28eba4" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::result</definition>
+        <argsstring></argsstring>
+        <name>result</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="160" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="160" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a237f4900e79e21c9e2213a81cdb4d3b9" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::rsvd3[3]</definition>
+        <argsstring>[3]</argsstring>
+        <name>rsvd3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="161" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="161" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1ab3e6db3b840caaed98fd58229e8d744e" prot="public" static="no" mutable="no">
+        <type>struct nvm_cmd::@0::@2</type>
+        <definition>struct nvm_cmd::@0::@2  nvm_cmd::vuser</definition>
+        <argsstring></argsstring>
+        <name>vuser</name>
+        <briefdescription>
+<para>Common fields for vector user commands. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="162"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1aef328ec8ae3744911a125ead2efb0653" prot="public" static="no" mutable="no">
+        <type>uint8_t</type>
+        <definition>uint8_t nvm_cmd::rsvd[2]</definition>
+        <argsstring>[2]</argsstring>
+        <name>rsvd</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="167" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="167" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1abe30c492df3e0ad6f870f6d0c77f8ac5" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::nsid</definition>
+        <argsstring></argsstring>
+        <name>nsid</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="168" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="168" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a39d50c008802728a6d4cffcc8b7d8ae4" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::cdw2</definition>
+        <argsstring></argsstring>
+        <name>cdw2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="169" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="169" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a2c24a809b8758291ae9ae2549e5d7f41" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::cdw3</definition>
+        <argsstring></argsstring>
+        <name>cdw3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="170" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="170" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a6ef52f6179bf1473cb696d690c312e8f" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::cdw13</definition>
+        <argsstring></argsstring>
+        <name>cdw13</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="178" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="178" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a11042336910c2eb9a300877a529bd117" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::cdw14</definition>
+        <argsstring></argsstring>
+        <name>cdw14</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="179" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="179" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a6cc80ec95917a59a77ff99378e21e818" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::cdw15</definition>
+        <argsstring></argsstring>
+        <name>cdw15</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="180" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="180" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a254b71417ac6660071aff9d37bcab126" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::timeout_ms</definition>
+        <argsstring></argsstring>
+        <name>timeout_ms</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="183" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="183" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1aaf5a66e7b7d7b5319d11f72d2fd344d1" prot="public" static="no" mutable="no">
+        <type>struct nvm_cmd::@0::@3</type>
+        <definition>struct nvm_cmd::@0::@3  nvm_cmd::vadmin</definition>
+        <argsstring></argsstring>
+        <name>vadmin</name>
+        <briefdescription>
+<para>Common fields for vector admin commands. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="184"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a91b1137effc37b13f8e18931bf48a8e4" prot="public" static="no" mutable="no">
+        <type>uint16_t</type>
+        <definition>uint16_t nvm_cmd::rsvd1</definition>
+        <argsstring></argsstring>
+        <name>rsvd1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="189" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="189" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a52392499d17f656994bdf1e85dc5c208" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::cdw10</definition>
+        <argsstring></argsstring>
+        <name>cdw10</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="197" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="197" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1afffa145a8856cae03409f706113d615a" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::cdw11</definition>
+        <argsstring></argsstring>
+        <name>cdw11</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="198" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="198" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a6baaec451c78aeb112ab6bf03c3549a8" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::cdw12</definition>
+        <argsstring></argsstring>
+        <name>cdw12</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="199" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="199" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a7985eaf4c29c6791bcdd1d2663e07546" prot="public" static="no" mutable="no">
+        <type>struct nvm_cmd::@0::@4</type>
+        <definition>struct nvm_cmd::@0::@4  nvm_cmd::admin</definition>
+        <argsstring></argsstring>
+        <name>admin</name>
+        <briefdescription>
+<para>Common fields for admin commands. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="205"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1aec2a3e52571f17d09ce92dd355ed71f2" prot="public" static="no" mutable="no">
+        <type>uint16_t</type>
+        <definition>uint16_t nvm_cmd::nblocks</definition>
+        <argsstring></argsstring>
+        <name>nblocks</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="211" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="211" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a697fe555106a805bf414f838dbbfaf27" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t nvm_cmd::slba</definition>
+        <argsstring></argsstring>
+        <name>slba</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="215" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="215" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a486ce1c531ec20cc71b83c3b10b65e7b" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::dsmgmt</definition>
+        <argsstring></argsstring>
+        <name>dsmgmt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="216" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="216" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a5a34aef4cf339703a7cb9f7c18164c81" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::reftag</definition>
+        <argsstring></argsstring>
+        <name>reftag</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="217" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="217" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1abae911a6a8b00d8468a5e8959bcab26d" prot="public" static="no" mutable="no">
+        <type>uint16_t</type>
+        <definition>uint16_t nvm_cmd::apptag</definition>
+        <argsstring></argsstring>
+        <name>apptag</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="218" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="218" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1af9266d85c5b23ee9fb6b9f586686565d" prot="public" static="no" mutable="no">
+        <type>uint16_t</type>
+        <definition>uint16_t nvm_cmd::appmask</definition>
+        <argsstring></argsstring>
+        <name>appmask</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="219" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="219" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1a81d9f1abfb59bea58b0cfe5ff101a252" prot="public" static="no" mutable="no">
+        <type>struct nvm_cmd::@0::@5</type>
+        <definition>struct nvm_cmd::@0::@5  nvm_cmd::user</definition>
+        <argsstring></argsstring>
+        <name>user</name>
+        <briefdescription>
+<para>Common fields for user commands. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="220"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1ad2b80e70294dcca5397a10e419c354dc" prot="public" static="no" mutable="no">
+        <type>uint32_t</type>
+        <definition>uint32_t nvm_cmd::cdw[20]</definition>
+        <argsstring>[20]</argsstring>
+        <name>cdw</name>
+        <briefdescription>
+<para>Command as array of dwords. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="222" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="222" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnvm__cmd_1ae76d008b3c9326fd029f9d8cca22eb37" prot="public" static="no" mutable="no">
+        <type>union nvm_cmd::@0</type>
+        <definition>union nvm_cmd::@0 nvm_cmd::@1</definition>
+        <argsstring></argsstring>
+        <name>@1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="223"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Encapsulation of lowest-level user and admin commands. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/hkim/liblightnvm/include/liblightnvm.h" line="146" bodyfile="/home/hkim/liblightnvm/include/liblightnvm.h" bodystart="146" bodyend="224"/>
+    <listofallmembers>
+      <member refid="structnvm__cmd_1aeef90765e6918184ec82e0f78509ba0e" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>addr</name></member>
+      <member refid="structnvm__cmd_1a7985eaf4c29c6791bcdd1d2663e07546" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>admin</name></member>
+      <member refid="structnvm__cmd_1af9266d85c5b23ee9fb6b9f586686565d" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>appmask</name></member>
+      <member refid="structnvm__cmd_1abae911a6a8b00d8468a5e8959bcab26d" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>apptag</name></member>
+      <member refid="structnvm__cmd_1ad2b80e70294dcca5397a10e419c354dc" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>cdw</name></member>
+      <member refid="structnvm__cmd_1a52392499d17f656994bdf1e85dc5c208" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>cdw10</name></member>
+      <member refid="structnvm__cmd_1afffa145a8856cae03409f706113d615a" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>cdw11</name></member>
+      <member refid="structnvm__cmd_1a6baaec451c78aeb112ab6bf03c3549a8" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>cdw12</name></member>
+      <member refid="structnvm__cmd_1a6ef52f6179bf1473cb696d690c312e8f" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>cdw13</name></member>
+      <member refid="structnvm__cmd_1a11042336910c2eb9a300877a529bd117" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>cdw14</name></member>
+      <member refid="structnvm__cmd_1a6cc80ec95917a59a77ff99378e21e818" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>cdw15</name></member>
+      <member refid="structnvm__cmd_1a39d50c008802728a6d4cffcc8b7d8ae4" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>cdw2</name></member>
+      <member refid="structnvm__cmd_1a2c24a809b8758291ae9ae2549e5d7f41" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>cdw3</name></member>
+      <member refid="structnvm__cmd_1a9392d794cd0aa63fb9d6a4573892d981" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>control</name></member>
+      <member refid="structnvm__cmd_1af030172e2f504c02c2bc38d758660f36" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>data_len</name></member>
+      <member refid="structnvm__cmd_1a486ce1c531ec20cc71b83c3b10b65e7b" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>dsmgmt</name></member>
+      <member refid="structnvm__cmd_1a8014afa6de6693b6f1f56e26c9eaa49c" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>flags</name></member>
+      <member refid="structnvm__cmd_1a96605da67cc6a9a948b94460c586f094" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>metadata</name></member>
+      <member refid="structnvm__cmd_1a7c70b1d9d3ba79e0cbe04465b7aceebf" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>metadata_len</name></member>
+      <member refid="structnvm__cmd_1aec2a3e52571f17d09ce92dd355ed71f2" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>nblocks</name></member>
+      <member refid="structnvm__cmd_1a4f0643ad2c2da14456466e79d8f5de05" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>nppas</name></member>
+      <member refid="structnvm__cmd_1abe30c492df3e0ad6f870f6d0c77f8ac5" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>nsid</name></member>
+      <member refid="structnvm__cmd_1aabe41bf89d9f41298106cf04ebd9f7d4" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>opcode</name></member>
+      <member refid="structnvm__cmd_1a8d3968f9e0ebc688086a6e32707e66a2" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>ppa_list</name></member>
+      <member refid="structnvm__cmd_1a5a34aef4cf339703a7cb9f7c18164c81" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>reftag</name></member>
+      <member refid="structnvm__cmd_1aa14632fc85953735c1675311fa28eba4" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>result</name></member>
+      <member refid="structnvm__cmd_1a621a81248eb95fcdb88ea265e8fd6696" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>rsvd</name></member>
+      <member refid="structnvm__cmd_1aef328ec8ae3744911a125ead2efb0653" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>rsvd</name></member>
+      <member refid="structnvm__cmd_1a91b1137effc37b13f8e18931bf48a8e4" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>rsvd1</name></member>
+      <member refid="structnvm__cmd_1a237f4900e79e21c9e2213a81cdb4d3b9" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>rsvd3</name></member>
+      <member refid="structnvm__cmd_1a697fe555106a805bf414f838dbbfaf27" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>slba</name></member>
+      <member refid="structnvm__cmd_1a30fa6c30428e5326e2c0d7642a3b8870" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>status</name></member>
+      <member refid="structnvm__cmd_1a254b71417ac6660071aff9d37bcab126" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>timeout_ms</name></member>
+      <member refid="structnvm__cmd_1a81d9f1abfb59bea58b0cfe5ff101a252" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>user</name></member>
+      <member refid="structnvm__cmd_1aaf5a66e7b7d7b5319d11f72d2fd344d1" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>vadmin</name></member>
+      <member refid="structnvm__cmd_1ab3e6db3b840caaed98fd58229e8d744e" prot="public" virt="non-virtual"><scope>nvm_cmd</scope><name>vuser</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

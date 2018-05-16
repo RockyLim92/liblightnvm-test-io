@@ -1,0 +1,40 @@
+.TH "nvm_ret" 3 "Tue May 1 2018" "Version 0.0.1" "liblightnvm" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+nvm_ret \- 
+.PP
+Encapsulation and representation of lower-level error conditions\&.  
+
+.SH SYNOPSIS
+.br
+.PP
+.PP
+\fC#include <liblightnvm\&.h>\fP
+.SS "Data Fields"
+
+.in +1c
+.ti -1c
+.RI "uint64_t \fBstatus\fP"
+.br
+.RI "\fINVMe command status / completion bits\&. \fP"
+.ti -1c
+.RI "uint32_t \fBresult\fP"
+.br
+.RI "\fINVMe command error codes\&. \fP"
+.in -1c
+.SH "Detailed Description"
+.PP 
+Encapsulation and representation of lower-level error conditions\&. 
+.SH "Field Documentation"
+.PP 
+.SS "uint32_t \fBnvm_ret::result\fP"
+.PP
+NVMe command error codes\&. 
+.SS "uint64_t \fBnvm_ret::status\fP"
+.PP
+NVMe command status / completion bits\&. 
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for liblightnvm from the source code\&.

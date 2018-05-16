@@ -552,3 +552,78 @@ make[1]: Leaving directory '/home/hkim/liblightnvm/tests_build/CMakeFiles/CMakeT
     Feature record: CXX_FEATURE:0cxx_variable_templates
     Feature record: CXX_FEATURE:0cxx_variadic_macros
     Feature record: CXX_FEATURE:0cxx_variadic_templates
+Performing C SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8f700/fast"
+make[1]: Entering directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_8f700.dir/build.make CMakeFiles/cmTC_8f700.dir/build
+make[2]: Entering directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8f700.dir/src.c.o
+/usr/bin/cc    -Dflag_supported   -std=c11 -o CMakeFiles/cmTC_8f700.dir/src.c.o   -c /home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_8f700
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8f700.dir/link.txt --verbose=1
+/usr/bin/cc   -Dflag_supported    CMakeFiles/cmTC_8f700.dir/src.c.o  -o cmTC_8f700 -rdynamic 
+make[2]: Leaving directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OpenMP_FLAG_DETECTED succeeded with the following output:
+Change Dir: /home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0fba3/fast"
+make[1]: Entering directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_0fba3.dir/build.make CMakeFiles/cmTC_0fba3.dir/build
+make[2]: Entering directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0fba3.dir/src.c.o
+/usr/bin/cc    -std=c11 -Wall -Wextra -pedantic -DOpenMP_FLAG_DETECTED -fopenmp   -o CMakeFiles/cmTC_0fba3.dir/src.c.o   -c /home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_0fba3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0fba3.dir/link.txt --verbose=1
+/usr/bin/cc   -std=c11 -Wall -Wextra -pedantic -DOpenMP_FLAG_DETECTED -fopenmp    CMakeFiles/cmTC_0fba3.dir/src.c.o  -o cmTC_0fba3 -rdynamic 
+make[2]: Leaving directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+#include <omp.h>
+int main() {
+#ifdef _OPENMP
+  return 0;
+#else
+  breaks_on_purpose
+#endif
+}
+
+Determining if the function clock_gettime exists in the c passed with the following output:
+Change Dir: /home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_53bc1/fast"
+make[1]: Entering directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_53bc1.dir/build.make CMakeFiles/cmTC_53bc1.dir/build
+make[2]: Entering directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_53bc1.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -std=c11 -Wall -Wextra -pedantic -fopenmp -DCHECK_FUNCTION_EXISTS=clock_gettime   -o CMakeFiles/cmTC_53bc1.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_53bc1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_53bc1.dir/link.txt --verbose=1
+/usr/bin/cc   -std=c11 -Wall -Wextra -pedantic -fopenmp -DCHECK_FUNCTION_EXISTS=clock_gettime    CMakeFiles/cmTC_53bc1.dir/CheckFunctionExists.c.o  -o cmTC_53bc1 -rdynamic -lc 
+make[2]: Leaving directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function clock_gettime exists in the rt passed with the following output:
+Change Dir: /home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7a933/fast"
+make[1]: Entering directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_7a933.dir/build.make CMakeFiles/cmTC_7a933.dir/build
+make[2]: Entering directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7a933.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -std=c11 -Wall -Wextra -pedantic -fopenmp -DCHECK_FUNCTION_EXISTS=clock_gettime   -o CMakeFiles/cmTC_7a933.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_7a933
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7a933.dir/link.txt --verbose=1
+/usr/bin/cc   -std=c11 -Wall -Wextra -pedantic -fopenmp -DCHECK_FUNCTION_EXISTS=clock_gettime    CMakeFiles/cmTC_7a933.dir/CheckFunctionExists.c.o  -o cmTC_7a933  -L/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp/time.h -rdynamic -lrt -Wl,-rpath,/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp/time.h 
+make[2]: Leaving directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/rocky/liblightnvm/tests_build/CMakeFiles/CMakeTmp'
+
+

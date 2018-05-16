@@ -1,0 +1,26 @@
+var NAVTREEINDEX =
+{
+"index.html":[],
+"annotated.html":[0,0],
+"structnvm__addr.html":[0,0,0],
+"structnvm__bbt.html":[0,0,1],
+"structnvm__cmd.html":[0,0,2],
+"structnvm__cmd__admin.html":[0,0,3],
+"structnvm__cmd__user.html":[0,0,4],
+"structnvm__cmd__vadmin.html":[0,0,5],
+"structnvm__cmd__vuser.html":[0,0,6],
+"structnvm__dev.html":[0,0,7],
+"structnvm__geo.html":[0,0,8],
+"structnvm__ret.html":[0,0,9],
+"structnvm__vblk.html":[0,0,10],
+"classes.html":[0,1],
+"functions.html":[0,2,0],
+"functions_vars.html":[0,2,1],
+"files.html":[1,0],
+"liblightnvm_8h.html":[1,0,0],
+"globals.html":[1,1,0],
+"globals_func.html":[1,1,1],
+"globals_enum.html":[1,1,2],
+"globals_eval.html":[1,1,3],
+"globals_defs.html":[1,1,4]
+};
