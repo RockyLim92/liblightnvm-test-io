@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/nvm_test_dev.dir/test_dev.c.o  -o nvm_test_dev -rdynamic -lcunit -lpthread -llightnvm 

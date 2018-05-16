@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/nvm_test_addr_io.dir/test_addr_io.c.o  -o nvm_test_addr_io -rdynamic -lcunit -lpthread -llightnvm 
