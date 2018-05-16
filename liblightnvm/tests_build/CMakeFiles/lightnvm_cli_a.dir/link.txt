@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblightnvm_cli.a  CMakeFiles/lightnvm_cli_a.dir/src/nvm_cli.c.o
+/usr/bin/ranlib liblightnvm_cli.a

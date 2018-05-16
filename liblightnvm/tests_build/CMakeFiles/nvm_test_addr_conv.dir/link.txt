@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/nvm_test_addr_conv.dir/test_addr_conv.c.o  -o nvm_test_addr_conv -rdynamic -lcunit -lpthread -llightnvm 

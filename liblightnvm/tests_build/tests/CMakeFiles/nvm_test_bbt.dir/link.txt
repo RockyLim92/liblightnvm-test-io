@@ -1,0 +1,1 @@
+/usr/bin/cc   -std=c11 -Wall -Wextra -pedantic -fopenmp   CMakeFiles/nvm_test_bbt.dir/test_bbt.c.o  -o nvm_test_bbt -rdynamic -lcunit -lpthread ../liblightnvm.so.0.0.1 -Wl,-rpath,/home/rocky/liblightnvm/tests_build: 
