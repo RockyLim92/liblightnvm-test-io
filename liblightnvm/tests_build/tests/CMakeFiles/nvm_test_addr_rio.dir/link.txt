@@ -1,1 +1,0 @@
-/usr/bin/cc   -std=c11 -Wall -Wextra -pedantic -fopenmp   CMakeFiles/nvm_test_addr_rio.dir/test_addr_rio.c.o  -o nvm_test_addr_rio -rdynamic -lcunit -lpthread ../liblightnvm.so.0.0.1 -Wl,-rpath,/home/rocky/liblightnvm/tests_build: 

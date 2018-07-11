@@ -1,1 +1,0 @@
-/usr/bin/cc  -fPIC  -std=c11 -Wall -Wextra -pedantic -fopenmp  -shared -Wl,-soname,liblightnvm_cli.so.0 -o liblightnvm_cli.so.0.0.1 CMakeFiles/lightnvm_cli.dir/src/nvm_cli.c.o liblightnvm.so.0.0.1 -Wl,-rpath,/home/rocky/liblightnvm/tests_build: 

@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/nvm_my_io_rw.dir/my_io_rw.c.o  -o nvm_my_io_rw -rdynamic -lcunit -lpthread -llightnvm 

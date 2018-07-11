@@ -1,1 +1,0 @@
-/usr/bin/cc   -std=c11 -Wall -Wextra -pedantic -fopenmp   CMakeFiles/nvm_bbt.dir/cli_bbt.c.o  -o nvm_bbt -rdynamic ../liblightnvm_cli.a ../liblightnvm.a 

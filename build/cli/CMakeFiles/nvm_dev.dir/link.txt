@@ -1,1 +1,0 @@
-/usr/bin/cc   -std=c11 -Wall -Wextra -pedantic -fopenmp -O3 -DNDEBUG   CMakeFiles/nvm_dev.dir/cli_dev.c.o  -o nvm_dev -rdynamic ../liblightnvm_cli.a ../liblightnvm.a 

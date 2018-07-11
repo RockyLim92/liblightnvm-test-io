@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/nvm_test_bbt.dir/test_bbt.c.o  -o nvm_test_bbt -rdynamic -lcunit -lpthread -llightnvm 

@@ -1,1 +1,0 @@
-/usr/bin/cc   -std=c11 -Wall -Wextra -pedantic -fopenmp   CMakeFiles/nvm_addr.dir/cli_addr.c.o  -o nvm_addr -rdynamic ../liblightnvm_cli.a ../liblightnvm.a 
